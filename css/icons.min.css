@@ -1,0 +1,276 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 27/05/2016 09:23
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("../fonts/Flaticon.eot");
+  src: url("../fonts/Flaticon.eot#iefix") format("embedded-opentype"),
+       url("../fonts/Flaticon.woff") format("woff"),
+       url("../fonts/Flaticon.ttf") format("truetype"),
+       url("../images/Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("../images/Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"] a:before, [class*=" flaticon-"] a:before,
+[class^="flaticon-"] a:after, [class*=" flaticon-"] a:after {   
+  font-family: Flaticon;
+  font-style: normal;
+}
+
+.flaticon-24-hours-support a:before { content: "\f100"; }
+.flaticon-4-stars-hotel-signal a:before { content: "\f101"; }
+.flaticon-5-meters-tape-measure a:before { content: "\f102"; }
+.flaticon-adjust a:before { content: "\f103"; }
+.flaticon-animal a:before { content: "\f104"; }
+.flaticon-antique-balcony a:before { content: "\f105"; }
+.flaticon-art a:before { content: "\f106"; }
+.flaticon-avatar a:before { content: "\f107"; }
+.flaticon-badge a:before { content: "\f108"; }
+.flaticon-balcony a:before { content: "\f109"; }
+.flaticon-balcony-1 a:before { content: "\f10a"; }
+.flaticon-balcony-and-door a:before { content: "\f10b"; }
+.flaticon-barbell-weightlifting a:before { content: "\f10c"; }
+.flaticon-bathtub a:before { content: "\f10d"; }
+.flaticon-bathtub-1 a:before { content: "\f10e"; }
+.flaticon-bathtub-2 a:before { content: "\f10f"; }
+.flaticon-bathtub-3 a:before { content: "\f110"; }
+.flaticon-bathtub-4 a:before { content: "\f111"; }
+.flaticon-bathtube-with-shower a:before { content: "\f112"; }
+.flaticon-beach a:before { content: "\f113"; }
+.flaticon-bed a:before { content: "\f114"; }
+.flaticon-bed-1 a:before { content: "\f115"; }
+.flaticon-bed-2 a:before { content: "\f116"; }
+.flaticon-bed-for-a-couple a:before { content: "\f117"; }
+.flaticon-bed-for-two a:before { content: "\f118"; }
+.flaticon-bell-covering-hot-dish a:before { content: "\f119"; }
+.flaticon-bikini a:before { content: "\f11a"; }
+.flaticon-box-with-tag a:before { content: "\f11b"; }
+.flaticon-boxed-gift-with-ribbon a:before { content: "\f11c"; }
+.flaticon-boy-broad-smile a:before { content: "\f11d"; }
+.flaticon-breakfast-in-bed a:before { content: "\f11e"; }
+.flaticon-buffet a:before { content: "\f11f"; }
+.flaticon-building a:before { content: "\f120"; }
+.flaticon-building-1 a:before { content: "\f121"; }
+.flaticon-business a:before { content: "\f122"; }
+.flaticon-business-1 a:before { content: "\f123"; }
+.flaticon-business-2 a:before { content: "\f124"; }
+.flaticon-business-meeting-group-on-circular-table a:before { content: "\f125"; }
+.flaticon-circle a:before { content: "\f126"; }
+.flaticon-claw-bath-in-spa a:before { content: "\f127"; }
+.flaticon-cocktail-on-a-glass a:before { content: "\f128"; }
+.flaticon-college-classroom a:before { content: "\f129"; }
+.flaticon-command a:before { content: "\f12a"; }
+.flaticon-commerce a:before { content: "\f12b"; }
+.flaticon-computer-class-room a:before { content: "\f12c"; }
+.flaticon-connection a:before { content: "\f12d"; }
+.flaticon-connection-1 a:before { content: "\f12e"; }
+.flaticon-connection-2 a:before { content: "\f12f"; }
+.flaticon-construction a:before { content: "\f130"; }
+.flaticon-contrast a:before { content: "\f131"; }
+.flaticon-contrast-adjust-interface-symbol a:before { content: "\f132"; }
+.flaticon-couple-double-bed a:before { content: "\f133"; }
+.flaticon-covered-food-tray a:before { content: "\f134"; }
+.flaticon-covered-food-tray-on-a-hand-of-hotel-room-service a:before { content: "\f135"; }
+.flaticon-cup a:before { content: "\f136"; }
+.flaticon-cutlery a:before { content: "\f137"; }
+.flaticon-destination a:before { content: "\f138"; }
+.flaticon-destination-point a:before { content: "\f139"; }
+.flaticon-diamond a:before { content: "\f13a"; }
+.flaticon-diamond-1 a:before { content: "\f13b"; }
+.flaticon-diamond-outlined-shape a:before { content: "\f13c"; }
+.flaticon-dimension-of-line-height a:before { content: "\f13d"; }
+.flaticon-dining-room-cupboard-with-glasses a:before { content: "\f13e"; }
+.flaticon-dining-set a:before { content: "\f13f"; }
+.flaticon-dinner a:before { content: "\f140"; }
+.flaticon-dinner-1 a:before { content: "\f141"; }
+.flaticon-direction a:before { content: "\f142"; }
+.flaticon-dish-cover a:before { content: "\f143"; }
+.flaticon-dish-knife-and-fork a:before { content: "\f144"; }
+.flaticon-document-height-adjustment a:before { content: "\f145"; }
+.flaticon-document-width a:before { content: "\f146"; }
+.flaticon-double-bed a:before { content: "\f147"; }
+.flaticon-drink a:before { content: "\f148"; }
+.flaticon-drink-1 a:before { content: "\f149"; }
+.flaticon-drink-2 a:before { content: "\f14a"; }
+.flaticon-eating a:before { content: "\f14b"; }
+.flaticon-elevator-symbol a:before { content: "\f14c"; }
+.flaticon-exercise a:before { content: "\f14d"; }
+.flaticon-fashion a:before { content: "\f14e"; }
+.flaticon-fashion-1 a:before { content: "\f14f"; }
+.flaticon-fashion-2 a:before { content: "\f150"; }
+.flaticon-fashion-3 a:before { content: "\f151"; }
+.flaticon-favourite-location a:before { content: "\f152"; }
+.flaticon-fit-to-width a:before { content: "\f153"; }
+.flaticon-five-meters-ruler a:before { content: "\f154"; }
+.flaticon-flag a:before { content: "\f155"; }
+.flaticon-flowers a:before { content: "\f156"; }
+.flaticon-folded-newspaper a:before { content: "\f157"; }
+.flaticon-folded-newspaper-1 a:before { content: "\f158"; }
+.flaticon-food a:before { content: "\f159"; }
+.flaticon-food-1 a:before { content: "\f15a"; }
+.flaticon-food-2 a:before { content: "\f15b"; }
+.flaticon-food-3 a:before { content: "\f15c"; }
+.flaticon-food-4 a:before { content: "\f15d"; }
+.flaticon-food-5 a:before { content: "\f15e"; }
+.flaticon-food-6 a:before { content: "\f15f"; }
+.flaticon-food-7 a:before { content: "\f160"; }
+.flaticon-food-8 a:before { content: "\f161"; }
+.flaticon-food-in-bedroom a:before { content: "\f162"; }
+.flaticon-four-stars a:before { content: "\f163"; }
+.flaticon-full-bed a:before { content: "\f164"; }
+.flaticon-game a:before { content: "\f165"; }
+.flaticon-gift a:before { content: "\f166"; }
+.flaticon-gift-tag a:before { content: "\f167"; }
+.flaticon-giftbox-with-big-ribbon a:before { content: "\f168"; }
+.flaticon-give-a-gift a:before { content: "\f169"; }
+.flaticon-group a:before { content: "\f16a"; }
+.flaticon-gym a:before { content: "\f16b"; }
+.flaticon-gym-weight a:before { content: "\f16c"; }
+.flaticon-hamburger-buffet a:before { content: "\f16d"; }
+.flaticon-hand-graving-smartphone a:before { content: "\f16e"; }
+.flaticon-hostel-double-bed-with-two-pillows a:before { content: "\f16f"; }
+.flaticon-hot-soup a:before { content: "\f170"; }
+.flaticon-hotel a:before { content: "\f171"; }
+.flaticon-hotel-1 a:before { content: "\f172"; }
+.flaticon-hotel-building a:before { content: "\f173"; }
+.flaticon-hotel-elevator-sign a:before { content: "\f174"; }
+.flaticon-hotel-four-stars-signal-in-rectangular-hand-drawn-speech-bubble a:before { content: "\f175"; }
+.flaticon-hotel-king-size-bed a:before { content: "\f176"; }
+.flaticon-hotel-king-size-bed-1 a:before { content: "\f177"; }
+.flaticon-hotel-room a:before { content: "\f178"; }
+.flaticon-hotel-service a:before { content: "\f179"; }
+.flaticon-image a:before { content: "\f17a"; }
+.flaticon-image-1 a:before { content: "\f17b"; }
+.flaticon-interlocking-rings a:before { content: "\f17c"; }
+.flaticon-interview a:before { content: "\f17d"; }
+.flaticon-interview-microphone a:before { content: "\f17e"; }
+.flaticon-jewelry-stone a:before { content: "\f17f"; }
+.flaticon-king-size-bed a:before { content: "\f180"; }
+.flaticon-king-size-bed-1 a:before { content: "\f181"; }
+.flaticon-king-size-bed-for-one-person a:before { content: "\f182"; }
+.flaticon-king-size-bed-with-one-pillow a:before { content: "\f183"; }
+.flaticon-king-size-bed-with-pillows a:before { content: "\f184"; }
+.flaticon-king-size-bed-with-two-pillows a:before { content: "\f185"; }
+.flaticon-kings-size-bed-for-three a:before { content: "\f186"; }
+.flaticon-knife-fork-and-plate a:before { content: "\f187"; }
+.flaticon-library a:before { content: "\f188"; }
+.flaticon-lifting-barbell a:before { content: "\f189"; }
+.flaticon-live-news-report a:before { content: "\f18a"; }
+.flaticon-love a:before { content: "\f18b"; }
+.flaticon-luggage a:before { content: "\f18c"; }
+.flaticon-luggage-cart a:before { content: "\f18d"; }
+.flaticon-man a:before { content: "\f18e"; }
+.flaticon-man-1 a:before { content: "\f18f"; }
+.flaticon-man-lifting-weights a:before { content: "\f190"; }
+.flaticon-marriage-rings-couple-with-a-heart a:before { content: "\f191"; }
+.flaticon-massage-and-spa abefore { content: "\f192"; }
+.flaticon-massage-spa-body-treatment a:before { content: "\f193"; }
+.flaticon-measuring-tape a:before { content: "\f194"; }
+.flaticon-meeting a:before { content: "\f195"; }
+.flaticon-meeting-1 a:before { content: "\f196"; }
+.flaticon-meeting-2 a:before { content: "\f197"; }
+.flaticon-meeting-3 a:before { content: "\f198"; }
+.flaticon-meeting-4 a:before { content: "\f199"; }
+.flaticon-meter a:before { content: "\f19a"; }
+.flaticon-meter-1 a:before { content: "\f19b"; }
+.flaticon-meter-tape a:before { content: "\f19c"; }
+.flaticon-metered-manual a:before { content: "\f19d"; }
+.flaticon-mountains a:before { content: "\f19e"; }
+.flaticon-nation a:before { content: "\f19f"; }
+.flaticon-nature a:before { content: "\f1a0"; }
+.flaticon-nature-1 a:before { content: "\f1a1"; }
+.flaticon-nature-2 a:before { content: "\f1a2"; }
+.flaticon-newspaper a:before { content: "\f1a3"; }
+.flaticon-newspaper-1 a:before { content: "\f1a4"; }
+.flaticon-newspaper-report a:before { content: "\f1a5"; }
+.flaticon-night a:before { content: "\f1a6"; }
+.flaticon-night-1 a:before { content: "\f1a7"; }
+.flaticon-notes a:before { content: "\f1a8"; }
+.flaticon-old-building a:before { content: "\f1a9"; }
+.flaticon-old-typical-phone a:before { content: "\f1aa"; }
+.flaticon-pay-in-restaurant a:before { content: "\f1ab"; }
+.flaticon-people a:before { content: "\f1ac"; }
+.flaticon-people-1 a:before { content: "\f1ad"; }
+.flaticon-people-2 a:before { content: "\f1ae"; }
+.flaticon-persons-at-museum-entrance-elevator-one-visitor-and-a-guard a:before { content: "\f1af"; }
+.flaticon-persons-at-museum-entrance-elevator-one-visitor-and-a-guard-1 a:before { content: "\f1b0"; }
+.flaticon-photo a:before { content: "\f1b1"; }
+.flaticon-photo-1 a:before { content: "\f1b2"; }
+.flaticon-photo-camera a:before { content: "\f1b3"; }
+.flaticon-photo-camera-1 a:before { content: "\f1b4"; }
+.flaticon-picture a:before { content: "\f1b5"; }
+.flaticon-pigeon a:before { content: "\f1b6"; }
+.flaticon-plate a:before { content: "\f1b7"; }
+.flaticon-plate-fork-and-knife a:before { content: "\f1b8"; }
+.flaticon-resize-width a:before { content: "\f1b9"; }
+.flaticon-restaurant a:before { content: "\f1ba"; }
+.flaticon-ribbon a:before { content: "\f1bb"; }
+.flaticon-ribbon-1 a:before { content: "\f1bc"; }
+.flaticon-ring-the-bell a:before { content: "\f1bd"; }
+.flaticon-rings a:before { content: "\f1be"; }
+.flaticon-romantic-date a:before { content: "\f1bf"; }
+.flaticon-romantic-dinner a:before { content: "\f1c0"; }
+.flaticon-round-table a:before { content: "\f1c1"; }
+.flaticon-scaling a:before { content: "\f1c2"; }
+.flaticon-searching-magnifying-glass a:before { content: "\f1c3"; }
+.flaticon-seats-at-the-hall a:before { content: "\f1c4"; }
+.flaticon-shapes a:before { content: "\f1c5"; }
+.flaticon-shapes-1 a:before { content: "\f1c6"; }
+.flaticon-share a:before { content: "\f1c7"; }
+.flaticon-share-files a:before { content: "\f1c8"; }
+.flaticon-shop a:before { content: "\f1c9"; }
+.flaticon-sign a:before { content: "\f1ca"; }
+.flaticon-sign-1 a:before { content: "\f1cb"; }
+.flaticon-sign-2 a:before { content: "\f1cc"; }
+.flaticon-signs a:before { content: "\f1cd"; }
+.flaticon-signs-1 a:before { content: "\f1ce"; }
+.flaticon-silhouette a:before { content: "\f1cf"; }
+.flaticon-smiling-baby a:before { content: "\f1d0"; }
+.flaticon-smiling-girl a:before { content: "\f1d1"; }
+.flaticon-sport a:before { content: "\f1d2"; }
+.flaticon-sports a:before { content: "\f1d3"; }
+.flaticon-square-measument a:before { content: "\f1d4"; }
+.flaticon-stack-of-photos a:before { content: "\f1d5"; }
+.flaticon-stadium-chairs a:before { content: "\f1d6"; }
+.flaticon-stairs a:before { content: "\f1d7"; }
+.flaticon-stairs-1 a:before { content: "\f1d8"; }
+.flaticon-star-with-number-4 a:before { content: "\f1d9"; }
+.flaticon-stationary-bike a:before { content: "\f1da"; }
+.flaticon-strike-through a:before { content: "\f1db"; }
+.flaticon-swimming-silhouette a:before { content: "\f1dc"; }
+.flaticon-symbol a:before { content: "\f1dd"; }
+.flaticon-table a:before { content: "\f1de"; }
+.flaticon-table-1 a:before { content: "\f1df"; }
+.flaticon-tag a:before { content: "\f1e0"; }
+.flaticon-tag-1 a:before { content: "\f1e1"; }
+.flaticon-technical-support a:before { content: "\f1e2"; }
+.flaticon-technology a:before { content: "\f1e3"; }
+.flaticon-technology-1 a:before { content: "\f1e4"; }
+.flaticon-technology-2 a:before { content: "\f1e5"; }
+.flaticon-tool a:before { content: "\f1e6"; }
+.flaticon-trajectory a:before { content: "\f1e7"; }
+.flaticon-tray a:before { content: "\f1e8"; }
+.flaticon-treatment-specialist a:before { content: "\f1e9"; }
+.flaticon-treatments a:before { content: "\f1ea"; }
+.flaticon-trolley a:before { content: "\f1eb"; }
+.flaticon-two-single-beds-and-a-small-table-in-the-middle-of-bedroom-furniture a:before { content: "\f1ec"; }
+.flaticon-underline a:before { content: "\f1ed"; }
+.flaticon-underline-1 a:before { content: "\f1ee"; }
+.flaticon-upstairs a:before { content: "\f1ef"; }
+.flaticon-web a:before { content: "\f1f0"; }
+.flaticon-wedding a:before { content: "\f1f1"; }
+.flaticon-wedding-cake a:before { content: "\f1f2"; }
+.flaticon-weightlifter-stick-man a:before { content: "\f1f3"; }
+.flaticon-width a:before { content: "\f1f4"; }
+.flaticon-windows a:before { content: "\f1f5"; }
+.flaticon-woman a:before { content: "\f1f6"; }
